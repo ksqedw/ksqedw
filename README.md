@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ksqedw
-- 👀 I’m interested in ... 2ch
+- 👀 I’m interested in ... acgn
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... nothing
+- 💞️ I’m looking to collaborate on ... galgame l10n
 - 📫 How to reach me ... ksqedw@reizeiin.com
 
 <!---
