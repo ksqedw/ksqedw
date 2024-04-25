@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ksqedw
-- 👀 I’m interested in ... acgn
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... galgame L10n
-- 📫 How to reach me ... ksqedw@reizeiin.moe
+- 👀 I’m interested in acgn
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on game L10n
+- 📫 How to reach me ksqedw@reizeiin.moe
 
 <!---
 ksqedw/ksqedw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
